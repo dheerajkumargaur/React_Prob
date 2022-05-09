@@ -1,0 +1,52 @@
+{
+  "official": [
+    {
+      "title": "Coding",
+      "description": "Welcome to coding world",
+      "subTask": "coding daily",
+      "date": "10/03/2022",
+      "id": 1
+    }
+  ],
+  "personal": [
+    {
+      "title": "Doctor Appointment",
+      "description": "I have a appointment in AIIMS for Eye checkup",
+      "subTask": "put 3 days eye drop",
+      "date": "13/05/2022",
+      "id": 1
+    }
+  ],
+  "others": [
+    {
+      "title": "Travel",
+      "description": "Long Distance",
+      "subTask": "3 Destination",
+      "date": "11/03/2022",
+      "id": 1
+    }
+  ],
+  "All": [
+    {
+      "title": "Coding",
+      "description": "Welcome to coding world",
+      "subTask": "coding daily",
+      "date": "10/03/2022",
+      "id": 1
+    },
+    {
+      "title": "Travel",
+      "description": "Long Distance",
+      "subTask": "3 Destination",
+      "date": "11/03/2022",
+      "id": 2
+    },
+    {
+      "title": "Doctor Appointment",
+      "description": "I have a appointment in AIIMS for Eye checkup",
+      "subTask": "put 3 days eye drop",
+      "date": "13/05/2022",
+      "id": 3
+    }
+  ]
+}
